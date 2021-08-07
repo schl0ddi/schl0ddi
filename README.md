@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @schl0ddi
 - 👀 I’m interested in Python / ML / DL / Django - WebDev (FrontEnd & BackEnd)
 - 🌱 I’m currently learning Javascript & ABAP
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
